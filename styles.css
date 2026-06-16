@@ -1,5 +1,9 @@
 body {
     background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
     color: #4b3b63;
     font-family: Georgia, serif;
     text-align: center;
