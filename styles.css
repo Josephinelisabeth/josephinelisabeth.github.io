@@ -21,11 +21,10 @@ p {
     font-size: 1.3em;
 }
 
-
 .hero {
-background-color: rgba(245, 230, 250, 0.90);
+    background-color: rgba(245, 230, 250, 0.90);
     border-radius: 25px;
-    padding: 20px;
+    padding: 10px 40px 30px 40px;
     max-width: 800px;
     margin: 40px auto;
 }
