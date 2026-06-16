@@ -9,13 +9,11 @@ body {
     text-align: center;
     margin: 0;
     padding: 50px;
-}
-
 h1 {
-    font-size: 4em;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5em;
     color: #7b5ea7;
 }
-
 p {
     font-size: 1.3em;
 .hero {
