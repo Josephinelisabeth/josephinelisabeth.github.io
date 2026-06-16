@@ -9,14 +9,21 @@ body {
     text-align: center;
     margin: 0;
     padding: 50px;
+}
+
 h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 5em;
+    font-size: 4em;
     color: #7b5ea7;
 }
+
 p {
     font-size: 1.3em;
-.hero p:first-of-type {
-    font-size: 1.6em;
-    color: #5c477c;
+}
+
+.hero {
+    background-color: rgba(255, 245, 250, 1);
+    border-radius: 25px;
+    padding: 50px;
+    max-width: 800px;
+    margin: 40px auto;
 }
