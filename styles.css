@@ -15,8 +15,8 @@ h1 {
     font-size: 4em;
     color: #7b5ea7;
     margin-bottom: 10px;
+    white-space: nowrap;
 }
-
 p {
     font-size: 1.3em;
 }
