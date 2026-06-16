@@ -21,6 +21,12 @@ p {
     font-size: 1.3em;
     line-height: 1.6;
 }
+    .logo {
+    width: 120px;
+    height: auto;
+    display: block;
+    margin: 10px auto 20px auto;
+}
 
 .hero {
     background-color: rgba(245, 230, 250, 0.90);
