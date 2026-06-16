@@ -9,11 +9,12 @@ body {
     text-align: center;
     margin: 0;
     padding: 50px;
-}
-
 h1 {
-    font-size: 4em;
+    font-family: "WindSong", cursive;
+    font-weight: 500;
+    font-size: 6em;
     color: #7b5ea7;
+    margin-bottom: 10px;
 }
 
 p {
